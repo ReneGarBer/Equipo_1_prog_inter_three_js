@@ -6,6 +6,6 @@
     "node": "16.x"
   },
   "scripts": {
-  "start": "node index.html"
+  "start": "node index.js"
   }
 }
